@@ -1,0 +1,100 @@
+{
+  "title": "어머니 논을 몰래 판 큰아들, 3년 뒤 벌어진 일",
+  "thumbnail_text": "어머니 논을 판\n큰아들의 최후",
+  "description": "평생 땅을 일구며 삼 남매를 키운 순자 할머니. 큰아들은 어머니 몰래 논을 팔아 서울로 떠났습니다. 그리고 3년 뒤, 마을에 뜻밖의 손님이 찾아오는데요. 오늘도 끝까지 함께해 주세요.",
+  "hashtags": ["#사연", "#권선징악", "#효도", "#시골이야기", "#오디오북", "#감동사연"],
+  "characters": [
+    {"name": "순자 할머니", "description": "75세 한국 할머니, 짧은 흰 파마머리, 꽃무늬 몸빼 바지와 남색 조끼, 주름진 따뜻한 얼굴"},
+    {"name": "큰아들 동수", "description": "48세 한국 남성, 짧은 머리, 회색 양복, 날카로운 눈매"},
+    {"name": "막내딸 미영", "description": "40세 한국 여성, 하나로 묶은 머리, 베이지색 카디건, 수수하고 다정한 인상"}
+  ],
+  "scenes": [
+    {
+      "heading": "평생 일군 논",
+      "image_prompt": "warm Korean watercolor illustration, a 75-year-old Korean grandmother with short white permed hair, floral baggy pants and navy vest, working in a green rice paddy at sunrise, rural village, mountains, no text",
+      "narration": [
+        "산 아래 작은 마을에 순자 할머니가 살았습니다.",
+        "할머니는 스무 살에 시집와 평생 논을 일궜지요.",
+        "남편을 일찍 떠나보내고 홀로 삼 남매를 키웠습니다.",
+        "새벽마다 논에 나가 해가 질 때까지 일했습니다.",
+        "\"이 논이 우리 식구 밥줄이다.\" 할머니의 입버릇이었지요."
+      ]
+    },
+    {
+      "heading": "큰아들의 부탁",
+      "image_prompt": "warm Korean watercolor illustration, a 48-year-old Korean man with short hair in a gray suit kneeling politely before an old Korean grandmother with short white permed hair in a traditional rural house room, documents on a low table, no text",
+      "narration": [
+        "어느 날 서울 사는 큰아들 동수가 내려왔습니다.",
+        "\"어머니, 도장 좀 잠깐 빌려주세요.\"",
+        "\"은행 서류에 보증인 도장이 필요해서요.\"",
+        "할머니는 아들 말이라 의심 없이 도장을 내주었습니다.",
+        "그것이 논을 파는 서류인 줄은 꿈에도 몰랐지요."
+      ]
+    },
+    {
+      "heading": "사라진 논",
+      "image_prompt": "warm Korean watercolor illustration, a sad old Korean grandmother with short white permed hair and navy vest standing alone at the edge of a rice paddy with a fence and a sold sign without letters, cloudy sky, no text",
+      "narration": [
+        "한 달 뒤, 낯선 사람들이 논에 말뚝을 박았습니다.",
+        "\"할머니, 이 논은 이제 저희 땅입니다.\"",
+        "할머니는 그 자리에 털썩 주저앉고 말았습니다.",
+        "큰아들에게 전화를 걸었지만 받지 않았지요.",
+        "동수는 그 돈을 들고 사업을 한다며 떠났습니다."
+      ]
+    },
+    {
+      "heading": "막내딸의 정성",
+      "image_prompt": "warm Korean watercolor illustration, a 40-year-old Korean woman with tied-back hair in a beige cardigan serving a warm meal to an old Korean grandmother with short white permed hair in a cozy rural kitchen, no text",
+      "narration": [
+        "소식을 들은 막내딸 미영이 한걸음에 달려왔습니다.",
+        "\"엄마, 걱정 마세요. 제가 곁에 있을게요.\"",
+        "미영은 읍내 식당에서 일하며 어머니를 모셨습니다.",
+        "넉넉하지는 않았지만 모녀의 밥상은 늘 따뜻했지요.",
+        "할머니는 큰아들 원망 대신 기도만 했습니다."
+      ]
+    },
+    {
+      "heading": "3년 뒤의 손님",
+      "image_prompt": "warm Korean watercolor illustration, a tired 48-year-old Korean man with short hair in a worn gray suit standing ashamed at the gate of a rural Korean house, an old grandmother with short white permed hair looking at him, autumn, no text",
+      "narration": [
+        "그렇게 3년이 흘렀습니다.",
+        "어느 가을날, 초라한 차림의 남자가 대문 앞에 섰습니다.",
+        "바로 큰아들 동수였지요.",
+        "사업은 망했고, 함께 일하던 사람에게 사기까지 당했습니다.",
+        "\"어머니, 제가 죽을죄를 지었습니다.\""
+      ]
+    },
+    {
+      "heading": "어머니의 대답",
+      "image_prompt": "warm Korean watercolor illustration, an old Korean grandmother with short white permed hair gently holding the hands of her crying middle-aged son in a gray suit, her daughter in a beige cardigan watching, warm evening light, no text",
+      "narration": [
+        "할머니는 한참 동안 아무 말도 하지 않았습니다.",
+        "\"논은 다시 일구면 되지만, 사람은 한 번 잃으면 끝이다.\"",
+        "\"네가 잃은 건 논이 아니라 사람의 믿음이다.\"",
+        "동수는 어머니 앞에서 어린아이처럼 울었습니다.",
+        "그날부터 동수는 남의 논에서 품을 팔며 일했습니다."
+      ]
+    },
+    {
+      "heading": "다시 찾은 논",
+      "image_prompt": "warm Korean watercolor illustration, a Korean family of an old grandmother with short white permed hair, her son and daughter planting rice together in a green paddy, bright sunny day, rural mountains, no text",
+      "narration": [
+        "몇 해 동안 동수는 번 돈을 한 푼도 허투루 쓰지 않았습니다.",
+        "그리고 마침내 어머니의 논을 다시 사들였지요.",
+        "\"이 논은 이제 미영이 이름으로 해 두었습니다.\"",
+        "어머니 곁을 지킨 사람은 미영이었으니까요.",
+        "그해 봄, 세 식구는 함께 모를 심었습니다."
+      ]
+    },
+    {
+      "heading": "오늘의 교훈",
+      "image_prompt": "warm Korean watercolor illustration, peaceful golden rice paddy at sunset in a Korean countryside village, an old grandmother with short white permed hair smiling on a wooden bench, no text",
+      "narration": [
+        "욕심으로 얻은 것은 오래가지 못하는 법입니다.",
+        "묵묵히 곁을 지킨 마음은 결국 보답을 받지요.",
+        "여러분은 오늘 누구에게 고마운 마음을 전하고 싶으신가요?",
+        "오늘 이야기는 여기까지입니다. 고맙습니다."
+      ]
+    }
+  ]
+}
