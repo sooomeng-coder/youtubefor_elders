@@ -67,3 +67,24 @@ python make_video.py --story "output/20261007_1200_.../story.json"
 ## 폰트
 
 `fonts/Pretendard-ExtraBold.otf` — [Pretendard](https://github.com/orioncactus/pretendard), SIL Open Font License 1.1 (`fonts/Pretendard-LICENSE.txt`).
+
+## 유아 학습 영상 (숫자 세기, 단어 카드)
+
+이모지 그림이 하나씩 켜지면서 숫자를 세고, 큰 숫자와 단어를 또박또박 읽어 주는 아이용 영상입니다.
+API 키 없이 학습 대본 JSON만으로 만듭니다.
+
+```
+# 스페인어 숫자 1~10 (과일 세기) 샘플
+python make_kids_video.py --lesson samples/kids_numbers_es.json
+
+# 음성 없이 화면만 빠르게 확인
+python make_kids_video.py --lesson samples/kids_numbers_es.json --silent
+```
+
+결과는 `output/<대본 파일 이름>/`에 `video.mp4`, `thumbnail.jpg`, `upload.txt`로 생깁니다.
+
+- 다른 언어로 만들려면 JSON을 복사해서 문장(`intro`, `count_words`, `question`, `lines`, `outro`)과
+  `voice`만 바꾸면 됩니다. 예: 일본어 `ja-JP-NanamiNeural`, 포르투갈어 `pt-BR-FranciscaNeural`.
+- 카드마다 `emoji` 대신 `image`에 그림 파일 경로를 넣으면 직접 만든 그림이 들어갑니다.
+- `count_words`를 비우고 `count`를 1로 두면 동물, 색깔 같은 단어 카드 영상이 됩니다.
+- 업로드할 때 시청자층은 반드시 '아동용'으로 설정하세요.

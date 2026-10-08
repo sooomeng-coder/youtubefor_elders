@@ -1,0 +1,43 @@
+{
+  "title": "Aprende a contar del 1 al 10 con frutas 🍎 | Números en español para niños",
+  "thumbnail_text": "¡Cuenta\ndel 1 al 10!",
+  "description": "¡Vamos a contar del 1 al 10 con frutas! 🍎🍌🍓\nUn video tranquilo para que los más pequeños aprendan los números en español: contamos cada fruta una por una, repetimos el número y al final repasamos todos juntos.\n\nIdeal para niños de 2 a 5 años, preescolar y familias que enseñan español en casa.",
+  "hashtags": ["#números", "#aprendeacontar", "#niños", "#preescolar", "#videoseducativos", "#españolparaniños"],
+  "disclosure": "Video creado con ayuda de herramientas de IA (voz sintética).",
+  "voice": "es-MX-DaliaNeural",
+  "rate": "-15%",
+  "count_words": ["uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez"],
+  "intro": [
+    "¡Hola, amiguitos!",
+    "Hoy vamos a contar del uno al diez con frutas.",
+    "¿Están listos? ¡Vamos!"
+  ],
+  "cards": [
+    {"big": "1", "word": "uno", "emoji": "🍎", "count": 1,
+     "question": "¿Qué fruta es esta?", "lines": ["¡Uno!", "Una manzana.", "¡Uno!"]},
+    {"big": "2", "word": "dos", "emoji": "🍌", "count": 2,
+     "question": "¿Cuántos plátanos hay? ¡Vamos a contar!", "lines": ["¡Dos!", "Dos plátanos."]},
+    {"big": "3", "word": "tres", "emoji": "🍓", "count": 3,
+     "question": "¿Cuántas fresas hay? ¡Vamos a contar!", "lines": ["¡Tres!", "Tres fresas."]},
+    {"big": "4", "word": "cuatro", "emoji": "🍊", "count": 4,
+     "question": "¿Cuántas naranjas hay? ¡Vamos a contar!", "lines": ["¡Cuatro!", "Cuatro naranjas."]},
+    {"big": "5", "word": "cinco", "emoji": "🍐", "count": 5,
+     "question": "¿Cuántas peras hay? ¡Vamos a contar!", "lines": ["¡Cinco!", "Cinco peras."]},
+    {"big": "6", "word": "seis", "emoji": "🍋", "count": 6,
+     "question": "¿Cuántos limones hay? ¡Vamos a contar!", "lines": ["¡Seis!", "Seis limones."]},
+    {"big": "7", "word": "siete", "emoji": "🍉", "count": 7,
+     "question": "¿Cuántas sandías hay? ¡Vamos a contar!", "lines": ["¡Siete!", "Siete sandías."]},
+    {"big": "8", "word": "ocho", "emoji": "🥝", "count": 8,
+     "question": "¿Cuántos kiwis hay? ¡Vamos a contar!", "lines": ["¡Ocho!", "Ocho kiwis."]},
+    {"big": "9", "word": "nueve", "emoji": "🍍", "count": 9,
+     "question": "¿Cuántas piñas hay? ¡Vamos a contar!", "lines": ["¡Nueve!", "Nueve piñas."]},
+    {"big": "10", "word": "diez", "emoji": "🍑", "count": 10,
+     "question": "¿Cuántos duraznos hay? ¡Vamos a contar!", "lines": ["¡Diez!", "Diez duraznos."]}
+  ],
+  "review_title": "¡Ahora todos juntos!",
+  "outro": [
+    "¡Muy bien, amiguitos!",
+    "Ya sabes contar del uno al diez.",
+    "¡Nos vemos en el próximo video!"
+  ]
+}
